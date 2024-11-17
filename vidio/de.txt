@@ -1,0 +1,45 @@
+Qué puedes decir al grabar el video
+Introducción:
+
+Explica brevemente qué hace el sistema:
+"Este es un programa interactivo en Node.js que permite gestionar estudiantes almacenados en un archivo JSON. Podemos crear, leer, agregar, actualizar, eliminar y contar estudiantes, todo a través de un menú."
+
+Mostrar cómo iniciar el menú:
+
+Ejecuta el comando node menu.js y muestra que el menú aparece en la terminal:
+"Voy a iniciar el programa con el comando node menu.js. Como pueden ver, aquí están las opciones del menú."
+
+Demostrar cada funcionalidad:
+
+Crear archivo JSON:
+"Primero, voy a crear un archivo JSON con datos iniciales de estudiantes seleccionando la opción 1."
+
+Elige la opción 1, deja que el programa se ejecute y muestra el mensaje de confirmación.
+Leer archivo JSON:
+"Ahora voy a leer el archivo JSON seleccionando la opción 2. Esto mostrará los estudiantes actuales."
+
+Elige la opción 2 y muestra la lista de estudiantes.
+Agregar un estudiante:
+"Voy a agregar un nuevo estudiante usando la opción 3."
+
+Selecciona la opción 3, muestra el mensaje de confirmación y luego elige la opción 2 para verificar que el estudiante fue agregado.
+Actualizar información:
+"Voy a actualizar la información de un estudiante con la opción 4."
+
+Selecciona la opción 4 y muestra que los datos han cambiado al leerlos de nuevo con la opción 2.
+Eliminar un estudiante:
+"Voy a eliminar un estudiante seleccionando la opción 5."
+
+Muestra cómo el estudiante desaparece tras usar la opción 2 para verificar.
+Contar estudiantes:
+"Finalmente, voy a contar el número total de estudiantes con la opción 6."
+
+Selecciona la opción 6 y lee el número en pantalla.
+Salir del programa:
+
+"Cuando terminamos, podemos salir del programa seleccionando la opción 7."
+
+Cierre:
+
+Resume lo que hiciste:
+"Con este programa hemos realizado todas las operaciones de gestión de estudiantes, como crear, leer, agregar, actualizar, eliminar y contar. Todo esto es interactivo y se gestiona desde un archivo JSON."
